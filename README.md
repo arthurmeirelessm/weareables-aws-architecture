@@ -13,7 +13,7 @@
 
 This is a solution that I have designed, predominantly employing AWS serverless services. It encompasses the utilization of external wearable SDKs from renowned brands such as Apple, Huawei, and Xiaomi, which are eminent in the realm of smartwatches and wristbands. In a healthcare-oriented context, this architecture is fundamentally segmented into thirteen distinct phases, collectively shaping the comprehensive scope of its capabilities. Three of these phases concentrate on diverse output avenues, comprising APIs, dashboards, and even predictive models generated through machine learning-driven recommendations.
 
-
+<br> 
 
 * **1 - Weareables ativos:** São os dispositivos ou pulseira que mandaram informações constantes de pacientes.
 
