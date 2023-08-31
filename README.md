@@ -1,0 +1,1 @@
+# weareables-aws-architecture
