@@ -3,7 +3,7 @@
 <br> 
 
 <div align="center">
-<img src="https://github.com/arthurmeirelessm/weareables-aws-architecture/assets/78212769/d127ff84-3c9e-4d4d-93ca-2179ca90e47d"
+<img src="https://github.com/arthurmeirelessm/weareables-aws-architecture/assets/78212769/7b949dd0-2fc3-40f8-9434-8ee1c311c3ac"
 " />
 </div>
 
