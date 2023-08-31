@@ -23,7 +23,7 @@ This is a solution that I have designed, predominantly employing AWS serverless 
 
 <br> 
 
-* **3 - Data Ingestion in AWS:** After the preliminary external data preprocessing, considering its architecture's capability to handle incoming data from numerous wearables simultaneously, AWS IoT Core is employed. In this context, AWS IoT Core serves as the focal point for the arrival and storage of real-time data, which is transmitted via MQTT or HTTP/HTTPS, with security ensured through x.509 or KMS certificates.
+* **3 - Data Ingestion in AWS:** After the preliminary external data preprocessing, considering its architecture's capability to handle incoming data from numerous wearables simultaneously, AWS IoT Core is employed. In this context, AWS IoT Core serves as the focal point for the arrival and storage of real-time data, which is transmitted via MQTT or HTTP/HTTPS, with security ensured through x.509 certificates or KMS.
 <br> 
   
 * **4 - Post-Ingestion Processing and Storage:** It comprises a Lambda function triggered by an AWS IoT Core rule, thereby processing or structuring the ingested data and subsequently storing it in an AWS S3 bucket.
