@@ -34,7 +34,7 @@ This is a solution that I have designed, predominantly employing AWS serverless 
 
 <br> 
 
-* **6 - API Manager Communicating with Lambda:** Step six involves the utilization of the AWS API Gateway to manage our GET endpoint, enabling the retrieval of specific data by passing parameters such as User ID and Wearable ID.
+* **6 - API Manager Communicating with Lambda:** Step six involves utilizing the AWS API Gateway to oversee our GET endpoint, enabling the retrieval of data with specific parameters such as User ID and Wearable ID. Its security framework relies on AWS IAM, AWS Cognito, and ultimately, AWS WAF (Web Application Firewall).
 
 <br> 
 
